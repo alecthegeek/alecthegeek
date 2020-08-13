@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him/Grumpy
+- ⌨️ Preffered Progamming Language: Go and Python
 
 <!--
 **alecthegeek/alecthegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

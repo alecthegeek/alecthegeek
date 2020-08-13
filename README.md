@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him/Grumpy
 - ⌨️ Preferred Progamming Language: Go and Python
 
-![Alec's github stats](https://github-readme-stats.vercel.app/api?username=alecthegeek&show_icons=true
+![Alec's github stats](https://github-readme-stats.vercel.app/api?username=alecthegeek&show_icons=true)
 
 <!--
 **alecthegeek/alecthegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,6 +9,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alecthegeek?label=Follow%20Alec&style=social)](https://twitter.com/alecthegeek/)
 
+[![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)
 
 <!--
 [![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedIn)

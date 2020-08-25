@@ -7,7 +7,8 @@
 - :black_nib: [Blog](https://alecthegeek.github.io)
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/alecthegeek?label=Follow%20Alec&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alecthegeek?label=Follow%20Alec&style=social)](https://twitter.com/alecthegeek/)
+
 
 <!--
 [![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedIn)

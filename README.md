@@ -5,6 +5,7 @@
 - 🔭 Currently working on: A talk about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia
 - :black_nib: [Blog](https://alecthegeek.github.io)
+- :computer: First Computer Program written on ICL 2904 mainframe in 1978 in MAXIMOP BASIC (no "Hello World" for me, it printed the multiplication tabkes from 2 to 12, but I only knew about IF and GOTO flow control statements)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alecthegeek?label=Follow%20Alec&style=social)](https://twitter.com/alecthegeek/)

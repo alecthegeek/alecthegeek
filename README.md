@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: He/Him/Grumpy
 - ⌨️ Preferred Progamming Language: Go and Python, but I use several others
+- :book: Writing about Docker on the developer desktop
 - 🔭 Recently finished: A [talk](https://papercutsoftware.github.io/git-from-powershell/) about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia
 - :black_nib: [Blog](https://alecthegeek.github.io)
@@ -15,3 +16,5 @@
 ![Alec's github stats](https://github-readme-stats.alecthegeek.vercel.app/api?username=alecthegeek&show_icons=true)
 
 <a href="https://imgflip.com/i/3qjgcv"><img src="https://i.imgflip.com/3qjgcv.jpg" title="made at imgflip.com" width="300" height="200"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+<!-- https://github.com/caiyongji/emoji-list -->

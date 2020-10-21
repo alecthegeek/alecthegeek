@@ -1,8 +1,10 @@
 ### G'Day 👋
 
+I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good), who's been in IT a long time
+
 - 😄 Pronouns: He/Him/Grumpy
 - ⌨️ Preferred Progamming Language: Go and Python, but I use several others
-- :book: Writing about Docker on the developer desktop
+- :book: Currently writing a book about Docker on the developer desktop, which will probably never be finished...
 - 🔭 Recently finished: A [talk](https://papercutsoftware.github.io/git-from-powershell/) about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia
 - :black_nib: [Blog](https://alecthegeek.github.io)

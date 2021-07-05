@@ -4,7 +4,7 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
 
 - 😄 Pronouns: He/Him/Grumpy
 - ⌨️ Preferred Progamming Language: Go and Python, but I use several others
-- Currently writing a talk on [Hugo](https://gohugo.io/) and [OpeAPI](https://www.openapis.org/)
+- Currently writing a talk on [Hugo](https://gohugo.io/) and [OpenAPI](https://www.openapis.org/)
 - :book: Occationaly  writing a book about Docker on the developer desktop, which will probably never be finished...
 - 🔭 Recently finished: A [talk](https://papercutsoftware.github.io/git-from-powershell/) about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia

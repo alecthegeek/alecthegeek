@@ -1,5 +1,7 @@
 ### G'Day 👋
 
+<link rel="me" href="https://mstdn.social/@alecthegeek">
+
 I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good), who's been in IT a long time
 
 - 😄 Pronouns: He/Him/Grumpy

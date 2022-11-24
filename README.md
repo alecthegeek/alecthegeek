@@ -18,8 +18,9 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
 
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)
 
+<!--
 ![Alec's github stats](https://github-readme-stats.alecthegeek.vercel.app/api?username=alecthegeek&show_icons=true)
-
+-->
 <a href="https://imgflip.com/i/3qjgcv"><img src="https://i.imgflip.com/3qjgcv.jpg" title="made at imgflip.com" width="300" height="200"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 <!-- https://github.com/caiyongji/emoji-list -->

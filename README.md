@@ -18,11 +18,11 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
    <!-- BLOG_FEED_START -->
    | Title | Description | Date |
    |-------|-------------|------|
+| [Use GitHub Actions to update your profile page](https://alecthegeek.tech/blog/2023/10/use-github-actions-to-update-your-profile-page/) | HUpdate your GitHub profile with content from an RSS feed the hard way | 07 Oct 2023 |
 | [Commit new content in a GitLab CI/CD pipeline the easy way](https://alecthegeek.tech/blog/2023/03/commit-new-content-in-a-gitlab-ci/cd-pipeline-the-easy-way/) | It’s not obvious how to commit new content back to your GitLab project repo. Try this pattern | 21 Mar 2023 |
 | [2FA and Managing "Security" Questions](https://alecthegeek.tech/blog/2023/02/2fa-and-managing-security-questions/) | How to manage 2FA and so called website “security” questions | 19 Feb 2023 |
 | [A Short Talk About Personal Internet Security](https://alecthegeek.tech/blog/2023/02/a-short-talk-about-personal-internet-security/) | A recent community talk I gave about the basics of personal Internet safety | 17 Feb 2023 |
 | [Protect-Your-Passwords-the-Right-Way](https://alecthegeek.tech/blog/2023/02/protect-your-passwords-the-right-way/) | Use a password manager to help you stay safe on the internet | 01 Feb 2023 |
-| [Working with a Git Branch Alias](https://alecthegeek.tech/blog/2023/01/working-with-a-git-branch-alias/) | Working with an upstream that still uses a master branch | 25 Jan 2023 |
    <!-- BLOG_FEED_END -->
 
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)

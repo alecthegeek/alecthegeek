@@ -23,7 +23,7 @@ jobs:
           /<!--\sraw\sHTML\somitted\s-->/s///g
           \!<item><title>([^<]+)</title><link>([^<]+)</link><pubDate>[^,]+,\s([[:digit:]]{1,2}\s[[:alpha:]]+\s[[:digit:]]{4})\s[[:digit:]]{2}:[[:digit:]]{2}:[[:digit:]]{2}\s[+-][[:digit:]]{4}</pubDate><guid>[^<]+</guid><description>([^<]+)</description></item>$!s!!| [\1](https://alecthegeek.tech\2) | \4 | \3 |!p
           $a\
-          <!-- BLOG_FEED_END -->' /tmp/items.xml |
+          <!-- BLOG_FEED_END -->' |
         sed -i -Ee '/BLOG_FEED_START/,/BLOG_FEED_END/ {r /dev/stdin
           d}' README.md
     - name: Commit and push if changed

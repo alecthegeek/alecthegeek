@@ -16,7 +16,7 @@ jobs:
     - name: Update README
       run: |-
        curl -sS "https://alecthegeek.tech/blog/index.xml" | xmllint --format --xpath "/rss/channel/item[position() <= 5]" - | tee /tmp/items.xml
-       "[ -s /tmp/items.xml ] || ( echo 'job failed' && exit 1 )"
+       [ -s /tmp/items.xml ] || ( echo 'job failed' && exit 1 )
         sed -nEe '1i\
           <!-- BLOG_FEED_START -->\
           | Title | Description | Date |\

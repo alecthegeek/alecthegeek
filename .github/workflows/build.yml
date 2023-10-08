@@ -1,14 +1,11 @@
 name: Build README
 
 on:
-  push:
   workflow_dispatch:
- # schedule:
- #   - cron: '8,28,48 * * * *'
 
 jobs:
   build:
-    runs-on: debian:11-slim
+    runs-on: ubuntu-latest
     steps:
     - name: add-packages
       uses: awalsh128/cache-apt-pkgs-action@latest
@@ -33,9 +30,9 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git status --porcelain
-        '[ -z "$(git status --porcelain)" ] && echo No Change Needed && exit 0'      
+        [ -z "$(git status --porcelain)" ] && echo No Change Needed && exit 0
         git config --global user.email "actions@users.noreply.github.com"
         git config --global user.name "README-bot"
-        git add -A
+        git add -a
         git commit -m "Updated content" || exit 0
         git push

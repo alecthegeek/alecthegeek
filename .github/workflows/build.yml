@@ -1,0 +1,41 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '8,28,48 * * * *'
+
+jobs:
+  build:
+    runs-on: debian:11-slim
+    steps:
+    - name: add-packages
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: curl libxml2-utils
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Update README
+      run: |-
+       curl -sS "$RSS_URL" | xmllint --format --xpath "/rss/channel/item" - | head -5 | tee /tmp/items.xml
+       "[ -s /tmp/items.xml ] || ( echo 'job failed' && exit 1 )"
+        sed -nEe '1i\
+          <!-- BLOG_FEED_START -->\
+          | Title | Description | Date |\
+          |-------|-------------|------|
+          /<!--\sraw\sHTML\somitted\s-->/s///g
+          \!<item><title>([^<]+)</title><link>([^<]+)</link><pubDate>[^,]+,\s([[:digit:]]{1,2}\s[[:alpha:]]+\s[[:digit:]]{4})\s[[:digit:]]{2}:[[:digit:]]{2}:[[:digit:]]{2}\s[+-][[:digit:]]{4}</pubDate><guid>[^<]+</guid><description>([^<]+)</description></item>$!s!!| [\1](https://alecthegeek.tech\2) | \4 | \3 |!p
+          $a\
+          <!-- BLOG_FEED_END -->' /tmp/items.xml |
+        sed -i -Ee '/BLOG_FEED_START/,/BLOG_FEED_END/ {r /dev/stdin
+          d}' README.md
+    - name: Commit and push if changed
+      run: |-
+        git status --porcelain
+        '[ -z "$(git status --porcelain)" ] && echo No Change Needed && exit 0'      
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated content" || exit 0
+        git push

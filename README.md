@@ -10,9 +10,13 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
 <!-- - :book: Occationaly  writing a book about Docker on the developer desktop, which will probably never be finished... -->
 - 🔭 I like presenting tutorials, for example a [talk](https://alecthegeek.github.io/git-from-powershell/) about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia
-- :black_nib: [Blog](https://alecthegeek.tech/blog/)
+<!-- - :black_nib: [Blog](https://alecthegeek.tech/blog/) -->
 - :computer: First Computer Program written on ICL 2904 mainframe in 1978 using [MAXIMOP](http://www.cs.man.ac.uk/CCS/res/res59.htm#g) BASIC. No "Hello World" for me, it printed the multiplication tabels from 2 to 12, but I only knew about IF and GOTO flow control statements.
 
+## My last five [blog](http://alecthegeek.tech/blog/) posts
+
+  <!-- BLOG_FEED_START --> 
+  <!-- BLOG_FEED_END -->
 
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)
 

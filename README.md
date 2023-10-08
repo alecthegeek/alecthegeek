@@ -15,8 +15,6 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
 
 ## My last five [blog](http://alecthegeek.tech/blog/) posts
 
-  <!-- BLOG_FEED_START --> 
-  <!-- BLOG_FEED_END -->
 
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)
 

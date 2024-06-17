@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Update README
       run: |-
-       curl -sS "https://alecthegeek.tech/blog/index.xml" | xmllint --format --xpath "/rss/channel/item[position() <= 5]" - |
+       curl -sS "https://alecthegeek.gitlab.io/blog/index.xml" | xmllint --format --xpath "/rss/channel/item[position() <= 5]" - |
         sed -nEe '1i\
           <!-- BLOG_FEED_START -->\
           | Title | Description | Date |\

@@ -18,10 +18,11 @@ I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blo
    <!-- BLOG_FEED_START -->
    | Title | Description | Date |
    |-------|-------------|------|
-| [Keep your important information safe](https://alecthegeek.tech/blog/2024/02/09/keeping-important-information-safe/) | How will you get your data back if you lose your devices in a fire? | 09 Feb 2024 |
-| [Social Engineering and Phishing Attacks](https://alecthegeek.tech/blog/2023/03/17/social-engineering-and-phishing-attacks/) | Avoiding scams that arrive from the Internet and your phone | 17 Mar 2023 |
-| [Protect Your Passwords the Right Way](https://alecthegeek.tech/blog/2023/02/01/protect-your-passwords-the-right-way/) | Use a password manager to help you stay safe on the internet | 01 Feb 2023 |
-| [How to Improve your safety on the Internet](https://alecthegeek.tech/blog/2023/01/11/simple-introduction-to-security/) | Some basic tips to help you stay safe on the internet | 11 Jan 2023 |
+| [Spell Check with Vale](https://alecthegeek.tech/blog/2024/05/spell-check-with-vale/) | Add internatinal spellchecking to Vale text linting | 27 May 2024 |
+| [Add Vale to Your Project](https://alecthegeek.tech/blog/2024/05/add-vale-to-your-project/) | Use Vale text linting to improve your technical writing and automate your style guide | 09 May 2024 |
+| [Use GitHub Actions to update your profile page](https://alecthegeek.tech/blog/2023/10/use-github-actions-to-update-your-profile-page/) | Update your GitHub profile README with content from an RSS feed the hard way | 07 Oct 2023 |
+| [Commit new content in a GitLab CI/CD pipeline the easy way](https://alecthegeek.tech/blog/2023/03/commit-new-content-in-a-gitlab-ci/cd-pipeline-the-easy-way/) | It’s not obvious how to commit new content back to your GitLab project repo. Try this pattern | 21 Mar 2023 |
+| [2FA and Managing "Security" Questions](https://alecthegeek.tech/blog/2023/02/2fa-and-managing-security-questions/) | How to manage 2FA and so called website “security” questions | 19 Feb 2023 |
    <!-- BLOG_FEED_END -->
 
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecclews/)

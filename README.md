@@ -2,12 +2,16 @@
 
 <link rel="me" href="https://mstdn.social/@alecthegeek">
 
-I'm Alec, an Australian/British [developer advocate](https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good), who's been in IT a long time
+I'm Alec, an Australian/British computer geek, who's been in IT a long time.
+I've done many IT related jobs, and even been a manager for a while before running back to technology as
+a [developer advocate](https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good).
+
+These days I am semi retired and support the seniors in my community with their IT needs (mainly cyber security).
 
 - 😄 Pronouns: He/Him/Grumpy
 - ⌨️ Preferred Progamming Language: Go and Python, but I use several others
 <!-- - Currently writing a talk on [Hugo](https://gohugo.io/) and [OpenAPI](https://www.openapis.org/) -->
-<!-- - :book: Occationaly  writing a book about Docker on the developer desktop, which will probably never be finished... -->
+- :book: Currently writing a book "Staying Safe Online" for Australian seniors. More info at https://alecthegeek.tech/securitybook/
 - 🔭 I like presenting tutorials, for example a [talk](https://alecthegeek.github.io/git-from-powershell/) about using Git from PowerShell
 - :earth_asia: Located in Melbourne Australia
 <!-- - :black_nib: [Blog](https://alecthegeek.tech/blog/) -->
